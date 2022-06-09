@@ -1,0 +1,1 @@
+Kafka producer --> write logic to insert the data into Kafka topics.

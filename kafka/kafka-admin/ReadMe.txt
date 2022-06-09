@@ -1,0 +1,1 @@
+Kafka admin will create Kafka topics automatically and check if topics are created
